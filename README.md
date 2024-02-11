@@ -1,5 +1,4 @@
-[![Javier Aceña Presentation Header](https://i.imgur.com/0jmyrr5.png)](https://tecnomadas.com)
-
+[![banner](/public/banner.png)](https://thoriumlabs.io)
 
 ---
 ### &#x1f4c8; &nbsp; GitHub Stats
